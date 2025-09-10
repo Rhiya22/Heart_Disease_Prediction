@@ -1,6 +1,6 @@
 # Heart_Disease_Prediction
 
-This project applies machine learning techniques to predict the likelihood of heart disease in patients based on clinical data. The goal is to demonstrate end-to-end ML workflow — from data cleaning and feature engineering to model training, evaluation, and interpretation.
+This project applies machine learning techniques to predict the likelihood of heart disease in patients based on clinical data. The goal is to demonstrate end-to-end ML workflow from data cleaning and feature engineering to model training, evaluation, and interpretation.
 
 # Project Overview
 
