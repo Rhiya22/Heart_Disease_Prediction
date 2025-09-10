@@ -33,9 +33,8 @@ Libraries: pandas, NumPy, scikit-learn, matplotlib, seaborn, shap
 Environment: Jupyter Notebook
 
 # How to Run
-
 # Clone the repository
-git clone https://github.com/Rhiya22/heart-disease-prediction.git
+git clone https://github.com/Rhiya22/heart_disease_prediction.git
 cd heart-disease-prediction
 
 # Install dependencies
