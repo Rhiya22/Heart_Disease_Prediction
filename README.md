@@ -37,9 +37,6 @@ Environment: Jupyter Notebook
 git clone https://github.com/Rhiya22/heart_disease_prediction.git
 cd heart-disease-prediction
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Run the Jupyter Notebook
 jupyter notebook Heart_Disease_Prediction.ipynb
 
